@@ -19,13 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![GitHub all releases](https://img.shields.io/github/downloads/The-Commodore-Designs-Dev/website-builder-platform/total?logo=GitHub&style=for-the-badge)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![GitHub contributors](https://img.shields.io/github/contributors-anon/The-Commodore-Designs-Dev/website-builder-platform?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/The-Commodore-Designs-Dev/website-builder-platform?style=for-the-badge)
 
+![GitHub forks](https://img.shields.io/github/forks/The-Commodore-Designs-Dev/website-builder-platform?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/The-Commodore-Designs-Dev/website-builder-platform?logo=GitHub&style=social)]
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/The-Commodore-Designs-Dev/website-builder-platform?logo=GitHub&style=social)
 
 
 <!-- PROJECT LOGO -->
