@@ -154,10 +154,23 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Orchestration
+    - [ ] Container Deployment
+    - [ ] Scaling
+    - [ ] Networking
+    - [ ] Onservability
+    - [ ] Security
+- [ ] Login/Authentication
+- [ ] Dashboard
+    - [ ] Domain Connection
+    - [ ] Account Creation and Management
+- [ ] Website Builder
+    - [ ] List of Elements and Layouts
+    - [ ] Draggable elements onto the editing area
+    - [ ] JavaScript editor on page
+    - [ ] Change CSS properties on page (like Colors, Font, Margin, etc)
+    - [ ] Comments on page
+- [ ] Public Website not Editable
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -186,7 +199,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +208,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Gregory Rothstein - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
