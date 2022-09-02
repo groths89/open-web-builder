@@ -93,14 +93,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Docker][Docker]][Docker-url]
+* [![Spring][Spring]][Spring-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Java][Java]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,6 +239,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
+[Docker]: https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://hub.docker.com/
+[Spring]: https://img.shields.io/badge/spring_boot-000000?style=for-the-badge&logo=spring-boot&logoColor=00FF7F
+[Spring-url]: https://spring.io/projects/spring-boot/
+[Java]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=white
+[Java-url]: https://www.java.com/en/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
