@@ -245,9 +245,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[RubyOnRails]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=CC0000
+[RubyOnRails]: https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=rubyonrails&logoColor=CC0000
 [RoR-url]: https://rubyonrails.org/
-[Blazor]: https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=512BD4
+[Blazor]: https://img.shields.io/badge/Blazor-20232A?style=for-the-badge&logo=blazor&logoColor=512BD4
 [Blazor-url]: https://learn.microsoft.com/en-us/aspnet/core/blazor/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
