@@ -142,7 +142,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://docs.thecommodoredesigns.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +169,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Comments on page
 - [ ] Public Website not Editable
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/the-commdore-designs-dev/open-web-builder/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,9 +201,9 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Gregory Rothstein - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Gregory Rothstein - [@Rothstein689](https://twitter.com/Rothstein689) - gregory@thecommodoredesigns.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/the-commodore-designs-dev/open-web-builder](https://github.com/the-commodore-designs-dev/open-web-builder)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,9 +212,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
