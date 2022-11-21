@@ -1,0 +1,25 @@
+name: Bug
+description: File a bug report ticket
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+    - groths89
+body:
+    - type: input
+      id: description
+      attributes:
+        label: Description
+        description: Write a little background of the bug
+        placeholder: ...
+    - type: textarea
+      id: steps-to-reproduce
+      attributes:
+        label: Steps to Reproduce
+        description: Write down in an ordered list of the steps taken to get the outcome
+        placeholder: |
+        1. |
+        2. |
+        3. |
+        and so on
+      validations:
+        required: true
