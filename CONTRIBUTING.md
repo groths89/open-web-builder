@@ -39,9 +39,19 @@ We want to welcome all diversities and neurodiversities.
 
 ## How to Report a Bug
 
+To report a bug use the GitHub Issues tab and create a new issue.
+
 ### Bug Templates
 
+Bug templates can be found in the .github directory with the form of a YAML file.
+
+Include a title of the bug, a description of the bug, steps to reproduce the bug, an expected outcome
+without the bug, and the actual outcome with the bug.
+
 ### First Bugs for Contributors
+
+If the fix is easy then someone will review the issue and label it as "good first issue". These 
+will be saved for the developers that are new to the project and have never made a commit before.
 
 ## How to Submit Changes
 
@@ -50,13 +60,23 @@ git clone
 
 git flow start feature [name of feature]
 
-git push [name of branch]
+git push origin [name of branch]
 ```
+
+Other way is to fork the project:
+
+1. Fork the Project
+2. Create your Feature Branch (`git flow  start feature feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 Then open a pull request for the feature to be reviewed to be merged with master
 and made a release package.
 
 ## How to Request an "Enhancement"
+
+You can also simply open an issue with the tag "enhancement" to get a feature started.
 
 ## Style Guide / Coding Conventions
 
