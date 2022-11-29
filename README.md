@@ -18,35 +18,35 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![GitHub all releases](https://img.shields.io/github/downloads/The-Commodore-Designs-Dev/website-builder-platform/total?logo=GitHub&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/The-Commodore-Designs-Dev/website-builder-platform?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/The-Commodore-Designs-Dev/website-builder-platform?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/The-Commodore-Designs-Dev/open-web-builder/total?logo=GitHub&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/The-Commodore-Designs-Dev/open-web-builder?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/The-Commodore-Designs-Dev/open-web-builder?style=for-the-badge)
 
-![GitHub forks](https://img.shields.io/github/forks/The-Commodore-Designs-Dev/website-builder-platform?style=social)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/The-Commodore-Designs-Dev/website-builder-platform?logo=GitHub&style=social)]
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/The-Commodore-Designs-Dev/website-builder-platform?logo=GitHub&style=social)
+![GitHub forks](https://img.shields.io/github/forks/The-Commodore-Designs-Dev/open-web-builder?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/The-Commodore-Designs-Dev/open-web-builder?logo=GitHub&style=social)]
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/The-Commodore-Designs-Dev/open-web-builder?logo=GitHub&style=social)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/The-Commodore-Designs-Dev/open-web-builder">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Website Builder Platform</h3>
+<h3 align="center">Open Web Builder</h3>
 
   <p align="center">
     The website builder let's a client and developer develop their websites together. The platform lets the developer deploy this package to a self-hosted server, a cloud or in the cloud. The platform makes the flow of web development easier and more collabrative that includes designing with styles, components to place on any part of the website, the ability to communicate through the platform when problems arise, the ability to have one admin/developer account and multiple client accounts, and the ability to connect domains to each client account. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/The-Commodore-Designs-Dev/open-web-builder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/The-Commodore-Designs-Dev/open-web-builder">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/The-Commodore-Designs-Dev/open-web-builder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/The-Commodore-Designs-Dev/open-web-builder/issues">Request Feature</a>
   </p>
 </div>
 
@@ -119,19 +119,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. 
+2. 
+3. 
+4. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
