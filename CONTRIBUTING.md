@@ -39,6 +39,16 @@ We want to welcome all diversities and neurodiversities.
 
 ## Environment Details
 
+```
+NVM: 1.1.9
+Node: 18.12.1
+npm: 9.1.3
+Ruby: 3.1.2p20
+Rails: 7.0.4
+SQLite3: 3.40.0
+.NET: 7.0
+```
+
 ## How to Report a Bug
 
 To report a bug use the GitHub Issues tab and create a new issue.
